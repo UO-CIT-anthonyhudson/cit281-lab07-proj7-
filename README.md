@@ -1,8 +1,11 @@
-## CIT 281 Lab 01
+## CIT 281 Lab 07
 
 In this lab we:
-- Installed and setup our personal computer with the software tools required for this course
-- Practiced using software tools
-- Practiced terminal or shell commands
-- Practiced keyboard shortcuts
-- Created our first Node.js server-side JavaScript file
+- Create your own GitHub organization for the CIT Minor
+- Create your first GitHub repository
+- Clone your GitHub repository to your local system
+- Create lab JavaScript file, and initialize folder as a Node.js folder
+- Update and commit lab JavaScript file to practice with error handling
+- Push your changes to GitHub
+
+In this lab I started my GitHub organization, which I am using now, and started the process of cloning my repo to my local system.
